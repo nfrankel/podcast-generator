@@ -1,4 +1,4 @@
-name: Podcast Generator
+name: Podcast Generator by Nicolas
 author: Nicolas Fränkel
 description: Generates a RSS feed for a podcast from a YAML file
 runs:
